@@ -1,11 +1,12 @@
-2011 -
-2012 -
-2013 -
-2014 -
-2015 -
-2016 -
-2017 -
-2018 -
-2019 -
-todos os anos analisados -
-TCC - 
+2011 - https://colab.research.google.com/drive/16u_8UIYhJTc19d8VsHZD0Kx4pW7NquhW?authuser=2
+2012 - https://colab.research.google.com/drive/1J3f0UUm2ic_2auYJvc9iS-z0PFU8JI6M?authuser=2
+2013 - https://colab.research.google.com/drive/1_3HcqtFBUuwO2psHseLaD3Akwa8HatIK?authuser=2
+2014 - https://colab.research.google.com/drive/14MEjMFP0xE3A0jsMs2ndivRs0KpaJO-I?authuser=2
+2015 - https://colab.research.google.com/drive/1In_zBzb3fgDTHY08gy9GMLZeaH0TDbiT?authuser=2
+2016 - https://colab.research.google.com/drive/1kaZMxzDd8Fhirykl3yrGvhYuAl0Bt5tY?authuser=2
+2017 - https://colab.research.google.com/drive/1uxsWkGyOa2h4kXjaKczBVXvAyexHVWzl?authuser=2
+2018 - https://colab.research.google.com/drive/1agAGu8RAC_WW_7FVBn_drgxrywIdi45a?authuser=2
+2019 - https://colab.research.google.com/drive/1PEz4XNfMZ5nMHurZ9RNDOMRFziNwuAyg?authuser=2
+Resultados individuais dos anos (utilizado como suporte para fazer as analises de todos os anos juntos) - https://docs.google.com/document/d/1sG9GPTAqut_fOrlPFTa7CSVfS67hfsovV-WBY9tEkxc/edit 
+todos os anos analisados - https://colab.research.google.com/drive/1zRezEG1GckgRiUg81Vw4mnSEMzOICXKK?authuser=2
+TCC - https://docs.google.com/document/d/1Rs3JMdt2uSixYSXPy5ahdsiA5dKOdvtlDPPasLHGSF0/edit
